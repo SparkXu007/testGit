@@ -11,6 +11,6 @@ public class HelloController {
     @RequestMapping("/hello")
 //    @ResponseBody
     public String hello(){
-        return "hello, spark2.";
+        return "hello, spark3.";
     }
 }
